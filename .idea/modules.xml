@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/p01spring-bean/p01spring-bean.iml" filepath="$PROJECT_DIR$/p01spring-bean/p01spring-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p02no-unique-bean-definiton-exception/p02no-unique-bean-definiton-exception.iml" filepath="$PROJECT_DIR$/p02no-unique-bean-definiton-exception/p02no-unique-bean-definiton-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p03custom-bean-name/p03custom-bean-name.iml" filepath="$PROJECT_DIR$/p03custom-bean-name/p03custom-bean-name.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p04primary-annotation/p04primary-annotation.iml" filepath="$PROJECT_DIR$/p04primary-annotation/p04primary-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p05component-annotation/p05component-annotation.iml" filepath="$PROJECT_DIR$/p05component-annotation/p05component-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p06postconstruct-predestroy-annotations/p06postconstruct-predestroy-annotations.iml" filepath="$PROJECT_DIR$/p06postconstruct-predestroy-annotations/p06postconstruct-predestroy-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p07creating-beans-programmatically/p07creating-beans-programmatically.iml" filepath="$PROJECT_DIR$/p07creating-beans-programmatically/p07creating-beans-programmatically.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p08creating-beans-using-xml-configuration/p08creating-beans-using-xml-configuration.iml" filepath="$PROJECT_DIR$/p08creating-beans-using-xml-configuration/p08creating-beans-using-xml-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p09wiring-beans-using-method-call/p09wiring-beans-using-method-call.iml" filepath="$PROJECT_DIR$/p09wiring-beans-using-method-call/p09wiring-beans-using-method-call.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p10wiring-beans-using-method-parameters/p10wiring-beans-using-method-parameters.iml" filepath="$PROJECT_DIR$/p10wiring-beans-using-method-parameters/p10wiring-beans-using-method-parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p11autowired-annotation/p11autowired-annotation.iml" filepath="$PROJECT_DIR$/p11autowired-annotation/p11autowired-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p12qualifier-annotation/p12qualifier-annotation.iml" filepath="$PROJECT_DIR$/p12qualifier-annotation/p12qualifier-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p13assignment-related-to-beans-autowiring-di/p13assignment-related-to-beans-autowiring-di.iml" filepath="$PROJECT_DIR$/p13assignment-related-to-beans-autowiring-di/p13assignment-related-to-beans-autowiring-di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p14singleton-beans/p14singleton-beans.iml" filepath="$PROJECT_DIR$/p14singleton-beans/p14singleton-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p15lazy-instantiation-of-singleton-beans/p15lazy-instantiation-of-singleton-beans.iml" filepath="$PROJECT_DIR$/p15lazy-instantiation-of-singleton-beans/p15lazy-instantiation-of-singleton-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p16prototype-beans/p16prototype-beans.iml" filepath="$PROJECT_DIR$/p16prototype-beans/p16prototype-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p17aspect-oriented-programming/p17aspect-oriented-programming.iml" filepath="$PROJECT_DIR$/p17aspect-oriented-programming/p17aspect-oriented-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework.iml" filepath="$PROJECT_DIR$/spring-framework.iml" />
+    </modules>
+  </component>
+</project>

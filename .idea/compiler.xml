@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="p17aspect-oriented-programming" />
+        <module name="p09wiring-beans-using-method-call" />
+        <module name="p14singleton-beans" />
+        <module name="p02no-unique-bean-definiton-exception" />
+        <module name="p08creating-beans-using-xml-configuration" />
+        <module name="p06postconstruct-predestroy-annotations" />
+        <module name="p16prototype-beans" />
+        <module name="p12qualifier-annotation" />
+        <module name="p11autowired-annotation" />
+        <module name="p13assignment-related-to-beans-autowiring-di" />
+        <module name="p05component-annotation" />
+        <module name="p15lazy-instantiation-of-singleton-beans" />
+        <module name="p01spring-bean" />
+        <module name="p03custom-bean-name" />
+        <module name="p04primary-annotation" />
+        <module name="p07creating-beans-programmatically" />
+        <module name="p10wiring-beans-using-method-parameters" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="p01spring-bean" target="17" />
+      <module name="p02no-unique-bean-definiton-exception" target="17" />
+      <module name="p03custom-bean-name" target="17" />
+      <module name="p04primary-annotation" target="17" />
+      <module name="p05component-annotation" target="17" />
+      <module name="p06postconstruct-predestroy-annotations" target="17" />
+      <module name="p07creating-beans-programmatically" target="17" />
+      <module name="p08creating-beans-using-xml-configuration" target="17" />
+      <module name="p09wiring-beans-using-method-call" target="17" />
+      <module name="p10wiring-beans-using-method-parameters" target="17" />
+      <module name="p11autowired-annotation" target="17" />
+      <module name="p12qualifier-annotation" target="17" />
+      <module name="p13assignment-related-to-beans-autowiring-di" target="17" />
+      <module name="p14singleton-beans" target="17" />
+      <module name="p15lazy-instantiation-of-singleton-beans" target="17" />
+      <module name="p16prototype-beans" target="17" />
+      <module name="p17aspect-oriented-programming" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="p01spring-bean" options="-parameters" />
+      <module name="p02no-unique-bean-definiton-exception" options="-parameters" />
+      <module name="p03custom-bean-name" options="-parameters" />
+      <module name="p04primary-annotation" options="-parameters" />
+      <module name="p05component-annotation" options="-parameters" />
+      <module name="p06postconstruct-predestroy-annotations" options="-parameters" />
+      <module name="p07creating-beans-programmatically" options="-parameters" />
+      <module name="p08creating-beans-using-xml-configuration" options="-parameters" />
+      <module name="p09wiring-beans-using-method-call" options="-parameters" />
+      <module name="p10wiring-beans-using-method-parameters" options="-parameters" />
+      <module name="p11autowired-annotation" options="-parameters" />
+      <module name="p12qualifier-annotation" options="-parameters" />
+      <module name="p13assignment-related-to-beans-autowiring-di" options="-parameters" />
+      <module name="p14singleton-beans" options="-parameters" />
+      <module name="p15lazy-instantiation-of-singleton-beans" options="-parameters" />
+      <module name="p16prototype-beans" options="-parameters" />
+      <module name="p17aspect-oriented-programming" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/p01spring-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/p02no-unique-bean-definiton-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/p03custom-bean-name/pom.xml" />
+        <option value="$PROJECT_DIR$/p04primary-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/p05component-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/p06postconstruct-predestroy-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/p07creating-beans-programmatically/pom.xml" />
+        <option value="$PROJECT_DIR$/p08creating-beans-using-xml-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/p09wiring-beans-using-method-call/pom.xml" />
+        <option value="$PROJECT_DIR$/p10wiring-beans-using-method-parameters/pom.xml" />
+        <option value="$PROJECT_DIR$/p11autowired-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/p12qualifier-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/p13assignment-related-to-beans-autowiring-di/pom.xml" />
+        <option value="$PROJECT_DIR$/p14singleton-scope/pom.xml" />
+        <option value="$PROJECT_DIR$/p15lazy-instantiation-of-singleton-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/p16prototype-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/p14singleton-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/p17aspect-oriented-programming/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

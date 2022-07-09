@@ -1,0 +1,14 @@
+
+a
+java:S1854"DRemove this useless assignment to local variable "applyBrakeStatus".(ú°à¶8ôÑÏ0
+e
+java:S1854"CRemove this useless assignment to local variable "playMusicStatus".(ë‹‰×ÿÿÿÿÿ8Ó¾Ï0
+g
+java:S1854"ERemove this useless assignment to local variable "moveVehicleStatus".(Õñàùûÿÿÿÿ8ô¢ãÎ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ò‚Ü8ÅÖÕÎ0
+X
+java:S1481"6Remove this unused "moveVehicleStatus" local variable.(Õñàùûÿÿÿÿ8ô¢ãÎ0
+V
+java:S1481"4Remove this unused "playMusicStatus" local variable.(ë‹‰×ÿÿÿÿÿ8Ó¾Ï0
+R
+java:S1481"5Remove this unused "applyBrakeStatus" local variable.(ú°à¶8ôÑÏ0

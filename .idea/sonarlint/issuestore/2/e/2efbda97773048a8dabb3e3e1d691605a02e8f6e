@@ -1,0 +1,22 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(Ä¦®§8×üˆì0
+X	java:S125"<This block of commented-out lines of code should be removed.(åÕ‹8ßáÜì0
+]	java:S125&"<This block of commented-out lines of code should be removed.(Í¬Á’ıÿÿÿÿ8…¦‰ì0
+R
+java:S1172."5Remove this unused method parameter "vehicleStarted".(€Ó–ô8ıŠİì0
+X	java:S125/"<This block of commented-out lines of code should be removed.(Ä¦®§8×‰ì0
+]	java:S1252"<This block of commented-out lines of code should be removed.(ìì„ıÿÿÿÿ8şŠİì0
+]	java:S125:"<This block of commented-out lines of code should be removed.(Í¬Á’ıÿÿÿÿ8§ı‰ì0
+W
+java:S1172B"5Remove this unused method parameter "vehicleStarted".(âó¨‡ùÿÿÿÿ8«¬İì0
+X	java:S125C"<This block of commented-out lines of code should be removed.(Ä¦®§8Ç£Šì0
+]	java:S125F"<This block of commented-out lines of code should be removed.(ìì„ıÿÿÿÿ8«¬İì0
+]	java:S125N"<This block of commented-out lines of code should be removed.(Í¬Á’ıÿÿÿÿ8ÇÂŠì0
+Q
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8ÉÂŠì0
+P
+java:S1128".Remove this unused import 'java.time.Instant'.(Â‚éñÿÿÿÿÿ8ÊÂŠì0
+Q
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8­¬İì0
+G
+java:S1068"*Remove this unused "logger" private field.(–æ¸¼8­¬İì0

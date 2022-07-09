@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/p01spring-bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p02no-unique-bean-definiton-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p03custom-bean-name/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p04primary-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p05component-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p06postconstruct-predestroy-annotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p07creating-beans-programmatically/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p08creating-beans-using-xml-configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p09wiring-beans-using-method-call/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p10wiring-beans-using-method-parameters/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p11autowired-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p12qualifier-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p13assignment-related-to-beans-autowiring-di/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p14singleton-beans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p14singleton-beans2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p14singleton-beans2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p15lazy-instantiation-of-singleton-beans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p16prototype-beans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p17aspect-oriented-programming/src/main/java" charset="UTF-8" />
+  </component>
+</project>
